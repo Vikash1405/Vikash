@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vikash</h1>
-<h3 align="center">A aspiring data analyst from India</h3>
+<h1 align="center">Hi 👋, I'm Vikash Yadav</h1>
+<h3 align="center">A aspiring data enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikash1405&label=Profile%20views&color=0e75b6&style=flat" alt="vikash1405" /> </p>
 
