@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, SQL, Tableau, Product Analysis**
 
-- 💬 Ask me about **Any question about any aspect**
+- 💬 Ask me about **Any question about any aspect and I will try to come up with an answer**
 
 - 📫 How to reach me **yadavvikash31@gmail.com**
 
